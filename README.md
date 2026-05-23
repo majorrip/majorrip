@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Atif Karim
 
-**Aspiring AI/ML PhD Student | Independent Researcher | Completed Master's in Sciences [CSE] from BRACU 
+**Aspiring AI/ML PhD Student | Independent Researcher | Completed Master's in Sciences [CSE] from BRACU**
 
 Welcome to my digital lab notebook! I am actively exploring machine learning and artificial intelligence. I use this space to document my independent experiments, share my methodology, and prepare for a PhD program in AI/ML. 
 
